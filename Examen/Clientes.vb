@@ -1,6 +1,7 @@
 ﻿Imports System.ComponentModel
 
 Public Class Clientes
+
     Private dtclientes As New dsTiendaCliente.clienteDataTable
     Private taclientes As New dsTiendaClienteTableAdapters.clienteTableAdapter
     Private campollave As String
